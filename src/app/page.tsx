@@ -56,8 +56,7 @@ const App: React.FC = () => {
               I can`t wait to spend the day with you. 🌹
             </p>
             <p className="mt-8 text-rose-400 text-sm">
-              Even if you said no, I`d still come and kidnap you for a day out
-              babyy !
+              You just made me the happiest girl in the world !!
             </p>
           </motion.div>
         )}
